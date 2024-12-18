@@ -1,2 +1,2 @@
-# estudos-l-gica-py
-Repositório de estudos de lógica de programação com Python
+# estudos-logica-py
+Repositório de estudos de lógica de programação com C#
