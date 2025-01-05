@@ -1,0 +1,12 @@
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\bin\Debug\net9.0\Rafael-Projetos.Common.deps.json
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\bin\Debug\net9.0\Rafael-Projetos.Common.dll
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\bin\Debug\net9.0\Rafael-Projetos.Common.pdb
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.AssemblyInfoInputs.cache
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.AssemblyInfo.cs
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.csproj.CoreCompileInputs.cache
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.sourcelink.json
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.dll
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\refint\Rafael-Projetos.Common.dll
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\Rafael-Projetos.Common.pdb
+C:\Users\rafam\OneDrive\Documentos\C#\estudos-logica-csharp\C#\Rafael-Projetos\Rafael-Projetos.Common\obj\Debug\net9.0\ref\Rafael-Projetos.Common.dll
