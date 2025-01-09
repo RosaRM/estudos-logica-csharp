@@ -1,0 +1,14 @@
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
