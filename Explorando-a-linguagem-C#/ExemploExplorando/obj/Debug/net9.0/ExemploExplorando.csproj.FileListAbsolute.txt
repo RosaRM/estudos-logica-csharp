@@ -12,3 +12,18 @@ D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\n
 D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 D:\Codigos visual studio\Explorando a linguagem C#\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll

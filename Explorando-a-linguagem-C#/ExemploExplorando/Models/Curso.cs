@@ -30,8 +30,8 @@ namespace ExemploExplorando.Models
         public void ListarAlunos()
         {
 
-            Console.WriteLine($"Alunos do curso de {Nome}")
-            for (int coun = 0; count < Alunos.Count; count++)
+            Console.WriteLine($"Alunos do curso de {Nome}");
+            for (int count = 0; count < Alunos.Count; count++)
             {
                 string texto = "Nº" + (count + 1) + " - " + Alunos[count].NomeCompleto;
                 Console.WriteLine(texto);

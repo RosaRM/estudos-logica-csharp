@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codigos visual studio\\Explorando a linguagem C#\\ExemploExplorando\\ExemploExplorando.csproj": {}
+    "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\ExemploExplorando.csproj": {}
   },
   "projects": {
-    "D:\\Codigos visual studio\\Explorando a linguagem C#\\ExemploExplorando\\ExemploExplorando.csproj": {
+    "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\ExemploExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codigos visual studio\\Explorando a linguagem C#\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectUniqueName": "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\ExemploExplorando.csproj",
         "projectName": "ExemploExplorando",
-        "projectPath": "D:\\Codigos visual studio\\Explorando a linguagem C#\\ExemploExplorando\\ExemploExplorando.csproj",
+        "projectPath": "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\ExemploExplorando.csproj",
         "packagesPath": "C:\\Users\\rafam\\.nuget\\packages\\",
-        "outputPath": "D:\\Codigos visual studio\\Explorando a linguagem C#\\ExemploExplorando\\obj\\",
+        "outputPath": "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafam\\AppData\\Roaming\\NuGet\\NuGet.Config"
