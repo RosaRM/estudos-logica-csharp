@@ -1,0 +1,35 @@
+TIPOS DE MEMÓRIAS
+
+Stack 
+Armazena as variaveis 
+Quando declarar uma variavel vai para stack, funcionando no tipo pilha(retira primeiro os valores de cima como uma pilha); Lembra nome, valor e tipo;
+Vai para a memória RAM;
+
+
+
+Heap
+
+Armazena o próprio objeto(+ Complexos)
+realiza a limpeza por necessidade de uso 
+Vai para a memória RAM;
+
+
+LIMPEZA DE MEMÓRIA
+GC - Garbage Collector
+Quando um objeto da memória Heap não tiver ligação com a memória stack(variaveis sendo retiradas) ele apaga para não usar mais memória;
+o GC funciona automaticamente
+
+TIPOS DE VALORES E REFERÊNCIA{
+
+Variavel de tipo de valor: simples; Valor que esta na própria memória Stack
+
+Variavel tipo de referencia: + complexos; precisa acessar uma referencia para o objeto, o nome da variavel que vai para o Objeto, 
+Esta na memória Stack e na Heap;
+
+ - ATRIBUIÇÃO DE TIPOS DE VALOR
+	apenas nomear a variavel
+
+ - ATRIBUIÇÃO DE TIPOS DE REFERÊNCIAS
+	como aponta para uma referencia, caso 1 chamado ocorra e op segundo se iguale (classe cachorro2 = cachorro) ao mudar algo de p2 ambos mudam, pois estão apontando para o mesmo objeto, e não um objeto igual criado para p2.
+
+

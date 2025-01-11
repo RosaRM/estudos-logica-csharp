@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Celular",
+    "Preco": 1950.5,
+    "DataVenda": "2025-01-11T17:20:20.8350586-03:00",
+    "Desconto" : null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Tablet",
+    "Preco": 1250.5,
+    "DataVenda": "2025-01-11T17:20:20.8432161-03:00",
+    "Desconto" : 10
+  }
+]

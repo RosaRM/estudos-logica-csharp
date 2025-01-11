@@ -27,3 +27,6 @@ D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\E
 D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
 D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\Dio estudos C#\Explorando-a-linguagem-C#\ExemploExplorando\obj\Debug\net9.0\ExemploE.B7F01285.Up2Date

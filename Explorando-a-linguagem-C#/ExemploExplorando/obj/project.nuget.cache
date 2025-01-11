@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/DvXO28l90E=",
+  "dgSpecHash": "xNHEnrTOIy8=",
   "success": true,
   "projectFilePath": "D:\\Dio estudos C#\\Explorando-a-linguagem-C#\\ExemploExplorando\\ExemploExplorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
