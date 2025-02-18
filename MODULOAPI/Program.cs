@@ -1,3 +1,6 @@
+//dotnet tool install --global dotnet-ef
+//dotnet add package Microsoft.EntityFrameworkCore.Design
+//dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
